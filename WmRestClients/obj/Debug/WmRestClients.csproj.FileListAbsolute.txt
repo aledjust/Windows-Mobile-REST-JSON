@@ -1,0 +1,6 @@
+D:\OWN\WMRESTJSON\WmRestClients\obj\Debug\ResolveAssemblyReference.cache
+D:\OWN\WMRESTJSON\WmRestClients\bin\Debug\WmRestClients.dll
+D:\OWN\WMRESTJSON\WmRestClients\bin\Debug\WmRestClients.pdb
+D:\OWN\WMRESTJSON\WmRestClients\bin\Debug\Newtonsoft.Json.Compact.dll
+D:\OWN\WMRESTJSON\WmRestClients\obj\Debug\WmRestClients.dll
+D:\OWN\WMRESTJSON\WmRestClients\obj\Debug\WmRestClients.pdb
